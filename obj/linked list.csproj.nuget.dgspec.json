@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexisrudy/Library/Mobile Documents/com~apple~CloudDocs/data structures/final_project/linked list/linked list.csproj": {}
+    "/Users/alexisrudy/Library/Mobile Documents/com~apple~CloudDocs/data structures/final_project/linked_list/linked list.csproj": {}
   },
   "projects": {
-    "/Users/alexisrudy/Library/Mobile Documents/com~apple~CloudDocs/data structures/final_project/linked list/linked list.csproj": {
+    "/Users/alexisrudy/Library/Mobile Documents/com~apple~CloudDocs/data structures/final_project/linked_list/linked list.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexisrudy/Library/Mobile Documents/com~apple~CloudDocs/data structures/final_project/linked list/linked list.csproj",
+        "projectUniqueName": "/Users/alexisrudy/Library/Mobile Documents/com~apple~CloudDocs/data structures/final_project/linked_list/linked list.csproj",
         "projectName": "linked list",
-        "projectPath": "/Users/alexisrudy/Library/Mobile Documents/com~apple~CloudDocs/data structures/final_project/linked list/linked list.csproj",
+        "projectPath": "/Users/alexisrudy/Library/Mobile Documents/com~apple~CloudDocs/data structures/final_project/linked_list/linked list.csproj",
         "packagesPath": "/Users/alexisrudy/.nuget/packages/",
-        "outputPath": "/Users/alexisrudy/Library/Mobile Documents/com~apple~CloudDocs/data structures/final_project/linked list/obj/",
+        "outputPath": "/Users/alexisrudy/Library/Mobile Documents/com~apple~CloudDocs/data structures/final_project/linked_list/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alexisrudy/.nuget/NuGet/NuGet.Config"
